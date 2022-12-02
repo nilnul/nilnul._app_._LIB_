@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<runtime>
+		<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1"
+    appliesTo="v3.5">
+			<dependentAssembly>
+				<!-- assembly information goes here -->
+			</dependentAssembly>
+		</assemblyBinding>
+		
+		<!--You should enter redirection information in version order. For example, enter assembly binding redirection information for .NET Framework 3.5 assemblies followed by .NET Framework 4.5 assemblies. Finally, enter assembly binding redirection information for any .NET Framework assembly redirection that does not use the appliesTo attribute and therefore applies to all versions of the .NET Framework. If there is a conflict in redirection, the first matching redirection statement in the configuration file is used.-->
+
+		
+	</runtime>
+</configuration>
